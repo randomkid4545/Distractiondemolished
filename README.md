@@ -25,11 +25,7 @@ Instead of simply blocking distracting websites, I redirect them to a custom pag
 - **JavaScript** — Popup dismissal and automatic reappearance
 
 ## Setup
-
-1. Clone or download this repository.
-2. Open `index.html` in a browser.
-3. Install and configure the [BlockSite extension](https://blocksite.co/).
-4. Configure the extension to redirect blocked websites to the page's URL, if supported by your setup.
+Configure the extension to redirect blocked websites to the page's URL, if supported by your setup.
 
 For local use, you may need to host the page locally or publish it using a static hosting service such as GitHub Pages, depending on the extension's redirect options.
 
